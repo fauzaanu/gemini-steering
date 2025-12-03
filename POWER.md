@@ -2,9 +2,20 @@
 name: "gemini"
 displayName: "Gemini API"
 description: "Build and scale with Google's latest AI models including Gemini 3 Pro, 2.5 series, and specialized capabilities"
-keywords: ["gemini", "google", "ai", "llm", "multimodal", "thinking", "structured outputs", "function calling", "image generation", "video", "grounding", "code execution"]
+keywords:
+  - "gemini"
+  - "google"
+  - "ai"
+  - "llm"
+  - "multimodal"
+  - "thinking"
+  - "structured outputs"
+  - "function calling"
+  - "image generation"
+  - "video"
+  - "grounding"
+  - "code execution"
 author: "fauzaanu"
-mcpServers: ["fetch"]
 ---
 
 # Onboarding
